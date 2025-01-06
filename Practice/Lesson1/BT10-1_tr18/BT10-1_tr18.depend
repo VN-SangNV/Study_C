@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1736144371 source:c:\users\admin\desktop\study\study_c\practice\bt10-1_tr18\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
